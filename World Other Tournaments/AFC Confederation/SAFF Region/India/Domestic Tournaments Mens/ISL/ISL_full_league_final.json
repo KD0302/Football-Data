@@ -1,0 +1,3343 @@
+{
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Indian Super League",
+      "ImageURL": "<insert imageurl>"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 101,
+      "Name": "Mumbai City FC",
+      "ShortName": "MCFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 102,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 103,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 104,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 105,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 106,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 107,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 108,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 109,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 110,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 111,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 112,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 113,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 114,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 115,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 116,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 117,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 118,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 119,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 120,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 121,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 122,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 123,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 124,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 125,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 126,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 201,
+      "Name": "Mohun Bagan SG",
+      "ShortName": "MBSG",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 202,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 203,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 204,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 205,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 206,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 207,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 208,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 209,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 210,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 211,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 212,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 213,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 214,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 215,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 216,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 217,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 218,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 219,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 220,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 221,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 222,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 223,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 224,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 225,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 226,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 301,
+      "Name": "FC Goa",
+      "ShortName": "FCG",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 302,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 303,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 304,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 305,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 306,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 307,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 308,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 309,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 310,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 311,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 312,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 313,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 314,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 315,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 316,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 317,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 318,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 319,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 320,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 321,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 322,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 323,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 324,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 325,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 326,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 401,
+      "Name": "Kerala Blasters",
+      "ShortName": "KBFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 402,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 403,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 404,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 405,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 406,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 407,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 408,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 409,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 410,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 411,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 412,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 413,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 414,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 415,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 416,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 417,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 418,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 419,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 420,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 421,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 422,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 423,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 424,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 425,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 426,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 501,
+      "Name": "Bengaluru FC",
+      "ShortName": "BFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 502,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 503,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 504,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 505,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 506,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 507,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 508,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 509,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 510,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 511,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 512,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 513,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 514,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 515,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 516,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 517,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 518,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 519,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 520,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 521,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 522,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 523,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 524,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 525,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 526,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 601,
+      "Name": "Chennaiyin FC",
+      "ShortName": "CFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 602,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 603,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 604,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 605,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 606,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 607,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 608,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 609,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 610,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 611,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 612,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 613,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 614,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 615,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 616,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 617,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 618,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 619,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 620,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 621,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 622,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 623,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 624,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 625,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 626,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 701,
+      "Name": "Hyderabad FC",
+      "ShortName": "HFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 702,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 703,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 704,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 705,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 706,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 707,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 708,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 709,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 710,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 711,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 712,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 713,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 714,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 715,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 716,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 717,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 718,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 719,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 720,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 721,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 722,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 723,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 724,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 725,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 726,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 801,
+      "Name": "Odisha FC",
+      "ShortName": "OFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 802,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 803,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 804,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 805,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 806,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 807,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 808,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 809,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 810,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 811,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 812,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 813,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 814,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 815,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 816,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 817,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 818,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 819,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 820,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 821,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 822,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 823,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 824,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 825,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 826,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 901,
+      "Name": "NorthEast United",
+      "ShortName": "NEUFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 902,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 903,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 904,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 905,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 906,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 907,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 908,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 909,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 910,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 911,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 912,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 913,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 914,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 915,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 916,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 917,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 918,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 919,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 920,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 921,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 922,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 923,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 924,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 925,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 926,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 1001,
+      "Name": "East Bengal FC",
+      "ShortName": "EBFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 1002,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1003,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1004,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1005,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1006,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1007,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1008,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1009,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1010,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1011,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1012,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1013,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1014,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1015,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1016,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1017,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1018,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1019,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1020,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1021,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1022,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1023,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1024,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1025,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1026,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 1101,
+      "Name": "Jamshedpur FC",
+      "ShortName": "JFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 1102,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1103,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1104,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1105,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1106,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1107,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1108,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1109,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1110,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1111,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1112,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1113,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1114,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1115,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1116,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1117,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1118,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1119,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1120,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1121,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1122,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1123,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1124,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1125,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1126,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 1201,
+      "Name": "Punjab FC",
+      "ShortName": "PFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 1202,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1203,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1204,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1205,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1206,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1207,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1208,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1209,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1210,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1211,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1212,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1213,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1214,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1215,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1216,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1217,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1218,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1219,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1220,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1221,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1222,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1223,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1224,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1225,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1226,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 1301,
+      "Name": "Mohammedan SC",
+      "ShortName": "MSC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 1302,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1303,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1304,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1305,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1306,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1307,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1308,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1309,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1310,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1311,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1312,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1313,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1314,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1315,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1316,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1317,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1318,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1319,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1320,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1321,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1322,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1323,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1324,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1325,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1326,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    },
+    {
+      "ID": 1401,
+      "Name": "Inter Kashi",
+      "ShortName": "IKFC",
+      "ImageURL": "<insert imageurl>",
+      "Players": [
+        {
+          "ID": 1402,
+          "Forename": "Sunil",
+          "Surname": "Chhetri",
+          "Position": "Forward",
+          "Nationality": "India",
+          "Age": 39,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1403,
+          "Forename": "Lallianzuala",
+          "Surname": "Chhangte",
+          "Position": "Winger",
+          "Nationality": "India",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1404,
+          "Forename": "Igor",
+          "Surname": "Angulo",
+          "Position": "Forward",
+          "Nationality": "Spain",
+          "Age": 36,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1405,
+          "Forename": "Jorge",
+          "Surname": "Díaz",
+          "Position": "Forward",
+          "Nationality": "Argentina",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1406,
+          "Forename": "Hugo",
+          "Surname": "Boumous",
+          "Position": "Midfielder",
+          "Nationality": "France",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1407,
+          "Forename": "Dimitri",
+          "Surname": "Petratos",
+          "Position": "Forward",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1408,
+          "Forename": "Vishal",
+          "Surname": "Kaith",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 29,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1409,
+          "Forename": "Amrinder",
+          "Surname": "Singh",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 31,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1410,
+          "Forename": "Rahul",
+          "Surname": "Bheke",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1411,
+          "Forename": "Sandesh",
+          "Surname": "Jhingan",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 32,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1412,
+          "Forename": "Tiri",
+          "Surname": "Surname",
+          "Position": "DF",
+          "Nationality": "Spain",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1413,
+          "Forename": "Cleiton",
+          "Surname": "Silva",
+          "Position": "FW",
+          "Nationality": "Brazil",
+          "Age": 34,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1414,
+          "Forename": "Alberto",
+          "Surname": "Noguera",
+          "Position": "MF",
+          "Nationality": "Spain",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1415,
+          "Forename": "Joel",
+          "Surname": "Chianese",
+          "Position": "FW",
+          "Nationality": "Australia",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1416,
+          "Forename": "Nerijus",
+          "Surname": "Valskis",
+          "Position": "FW",
+          "Nationality": "Lithuania",
+          "Age": 33,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1417,
+          "Forename": "Apuia",
+          "Surname": "Surname",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1418,
+          "Forename": "Sahal",
+          "Surname": "Abdul Samad",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1419,
+          "Forename": "Liston",
+          "Surname": "Colaco",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1420,
+          "Forename": "Bradley",
+          "Surname": "Player",
+          "Position": "MF",
+          "Nationality": "England",
+          "Age": 27,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1421,
+          "Forename": "Subhasish",
+          "Surname": "Bose",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1422,
+          "Forename": "Dheeraj",
+          "Surname": "Moirangthem",
+          "Position": "GK",
+          "Nationality": "India",
+          "Age": 25,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1423,
+          "Forename": "Pritam",
+          "Surname": "Kotal",
+          "Position": "DF",
+          "Nationality": "India",
+          "Age": 30,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1424,
+          "Forename": "Jon",
+          "Surname": "Narong",
+          "Position": "MF",
+          "Nationality": "Portugal",
+          "Age": 28,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1425,
+          "Forename": "Lennon",
+          "Surname": "Fernandes",
+          "Position": "MF",
+          "Nationality": "India",
+          "Age": 26,
+          "ImageURL": "<insert imageurl>"
+        },
+        {
+          "ID": 1426,
+          "Forename": "Vinith",
+          "Surname": "Venkatesh",
+          "Position": "FW",
+          "Nationality": "India",
+          "Age": 24,
+          "ImageURL": "<insert imageurl>"
+        }
+      ]
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 1,
+      "Name": "Indian Super Cup",
+      "ImageURL": "<insert imageurl>"
+    },
+    {
+      "ID": 2,
+      "Name": "Durand Cup",
+      "ImageURL": "<insert imageurl>"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 101,
+      "Name": "Mumbai Football Arena"
+    },
+    {
+      "ID": 201,
+      "Name": "Salt Lake Stadium"
+    },
+    {
+      "ID": 301,
+      "Name": "Fatorda Stadium"
+    },
+    {
+      "ID": 401,
+      "Name": "Jawaharlal Nehru Stadium Kochi"
+    },
+    {
+      "ID": 501,
+      "Name": "Sree Kanteerava Stadium"
+    },
+    {
+      "ID": 601,
+      "Name": "Jawaharlal Nehru Stadium Chennai"
+    },
+    {
+      "ID": 701,
+      "Name": "GMC Balayogi Stadium"
+    },
+    {
+      "ID": 801,
+      "Name": "Kalinga Stadium"
+    },
+    {
+      "ID": 901,
+      "Name": "Indira Gandhi Athletic Stadium"
+    },
+    {
+      "ID": 1001,
+      "Name": "Salt Lake Stadium"
+    },
+    {
+      "ID": 1101,
+      "Name": "JRD Tata Sports Complex"
+    },
+    {
+      "ID": 1201,
+      "Name": "Tau Devi Lal Stadium"
+    },
+    {
+      "ID": 1301,
+      "Name": "Salt Lake Stadium"
+    },
+    {
+      "ID": 1401,
+      "Name": "Lalpur Stadium"
+    }
+  ]
+}
